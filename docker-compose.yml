@@ -1,13 +1,11 @@
 services:
-  backend:
+  wildfires:
     build:
       context: .
     depends_on:
       - postgres
     ports:
       - 4000:4000 # http
-    environment:
-      - WILDFIRES_API_KEY=${WILDFIRES_API_KEY}
   postgres:
     image: 'postgis/postgis:17-3.5'
     ports:

@@ -1,5 +1,19 @@
 # Wildfires
 
+Setup commands:
+```
+# Build
+mix deps.get
+mix compile
+
+# Test
+docker compose up --detach --remove-orphans --renew-anon-volumes --force-recreate postgres
+mix test
+
+# Run app in container
+docker compose up --detach --remove-orphans --renew-anon-volumes --force-recreate --build wildfires
+```
+
 ### Links
 
 - https://www.arcgis.com/home/item.html?id=d957997ccee7408287a963600a77f61f

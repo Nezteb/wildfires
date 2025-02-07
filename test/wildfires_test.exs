@@ -1,8 +1,11 @@
 defmodule WildfiresTest do
-  use ExUnit.Case
-  doctest Wildfires
+  use Wildfires.RepoCase
 
-  test "greets the world" do
-    assert Wildfires.hello() == :world
+  test "wildfires works" do
+    Req.Test.stub(Wildfires.HTTPClient, fn conn ->
+      Req.Test.json(conn, %{})
+    end)
+
+    :ok
   end
 end

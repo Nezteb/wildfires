@@ -14,7 +14,8 @@ defmodule Wildfires.Application do
     children = [
       # Starts a worker by calling: Wildfires.Worker.start_link(arg)
       # {Wildfires.Worker, arg}
-      Wildfires.Repo
+      Wildfires.Repo,
+      {Bandit, plug: Wildfires.Router, scheme: :http, port: 4000}
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html

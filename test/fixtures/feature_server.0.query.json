@@ -1,0 +1,3615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.5747259999999, 37.060663]
+      },
+      "properties": {
+        "IncidentName": "KDF - Rocky Fork Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.329355, 35.256039]
+      },
+      "properties": {
+        "IncidentName": "ELK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.31, 41.2449]
+      },
+      "properties": {
+        "IncidentName": "VALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.446266, 35.1686740000001]
+      },
+      "properties": {
+        "IncidentName": "RIG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.8577778, 36.6066667000001]
+      },
+      "properties": {
+        "IncidentName": "Ash Mountain RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.1163889, 41.0588889000001]
+      },
+      "properties": {
+        "IncidentName": "Airport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.433383, 35.1682000000001]
+      },
+      "properties": {
+        "IncidentName": "AIRPORT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.8563889, 30.3355556000001]
+      },
+      "properties": {
+        "IncidentName": "PIGEON CREEK (03)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.6841667, 41.0650000000001]
+      },
+      "properties": {
+        "IncidentName": "Mini"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.7336111, 41.1177778000001]
+      },
+      "properties": {
+        "IncidentName": "Pine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.6647222, 41.0305556000001]
+      },
+      "properties": {
+        "IncidentName": "Boozer 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.803255, 34.4232870000001]
+      },
+      "properties": {
+        "IncidentName": "SUNRISE 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.767881, 34.161522]
+      },
+      "properties": {
+        "IncidentName": "DAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.772176, 34.2286720000001]
+      },
+      "properties": {
+        "IncidentName": "FORK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.7648, 36.3916330000001]
+      },
+      "properties": {
+        "IncidentName": "Coffee Pot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.04844, 48.67895]
+      },
+      "properties": {
+        "IncidentName": "Ruby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.842697, 34.2830310000001]
+      },
+      "properties": {
+        "IncidentName": "MOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.123083, 44.5009630000001]
+      },
+      "properties": {
+        "IncidentName": "0675 OCHOCO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.758, 34.2305000000001]
+      },
+      "properties": {
+        "IncidentName": "BRIDGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.339167, 46.0391670000001]
+      },
+      "properties": {
+        "IncidentName": "Rainbow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.218448, 45.1341120000001]
+      },
+      "properties": {
+        "IncidentName": "Riverside Planting Piles Rx - West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.59861111, 38.2263888900001]
+      },
+      "properties": {
+        "IncidentName": "BLOODY ANGLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.139117, 36.496333]
+      },
+      "properties": {
+        "IncidentName": "HORSESHOE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.873663, 43.0554940000001]
+      },
+      "properties": {
+        "IncidentName": "RX-Johnnie Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.177193, 43.584149]
+      },
+      "properties": {
+        "IncidentName": "Milltown Hill 1234-RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.160025, 43.0763260000001]
+      },
+      "properties": {
+        "IncidentName": "Hughes That ROW RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.40404, 37.2978000000001]
+      },
+      "properties": {
+        "IncidentName": "KDF - CONFLUENCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.3967019999999, 37.2952680000001]
+      },
+      "properties": {
+        "IncidentName": "KDF - Confluence 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.951944, 33.7613890000001]
+      },
+      "properties": {
+        "IncidentName": "LBJ Bois d'Arc RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.059, 34.371]
+      },
+      "properties": {
+        "IncidentName": "Horton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.651173, 40.4224100000001]
+      },
+      "properties": {
+        "IncidentName": "2025 SHASTA CO PILE RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.866415, 60.487802]
+      },
+      "properties": {
+        "IncidentName": "2025 Wharf Ave RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-151.756278, 59.750568]
+      },
+      "properties": {
+        "IncidentName": "2025  Alut Ave Project RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.863667, 60.5033720000001]
+      },
+      "properties": {
+        "IncidentName": "2025 Morgan's Landing RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.602283, 61.660133]
+      },
+      "properties": {
+        "IncidentName": "2025 Sunset Fuels Mitigation RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.986117, 61.6698170000001]
+      },
+      "properties": {
+        "IncidentName": "2025 Lynx Lake RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.092778, 61.605556]
+      },
+      "properties": {
+        "IncidentName": "2025 MSS RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.097717, 26.0074000000001]
+      },
+      "properties": {
+        "IncidentName": "BICY Boot Hill Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.1276, 46.5618000000001]
+      },
+      "properties": {
+        "IncidentName": "TSH Piles Units 67-68 Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0128329999999, 35.8162170000001]
+      },
+      "properties": {
+        "IncidentName": "RX - Chestnut"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.746383, 44.3951670000001]
+      },
+      "properties": {
+        "IncidentName": "Deadwood Fuels RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5511111, 34.0677778]
+      },
+      "properties": {
+        "IncidentName": "Palisades"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.334036, 45.2935130000001]
+      },
+      "properties": {
+        "IncidentName": "South Pen Piles Rx - East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.10544, 34.19163]
+      },
+      "properties": {
+        "IncidentName": "EATON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.6847999999999, 25.3700000000001]
+      },
+      "properties": {
+        "IncidentName": "EVER HID Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0504, 46.542]
+      },
+      "properties": {
+        "IncidentName": "Tucker Gulch Piles Rx Unit 56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.634131, 39.0293750000001]
+      },
+      "properties": {
+        "IncidentName": "Sunrise RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.658323, 41.002463]
+      },
+      "properties": {
+        "IncidentName": "Wyoming State Pile Burns RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.588367, 44.1583000000001]
+      },
+      "properties": {
+        "IncidentName": "Slider RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.670413, 40.954531]
+      },
+      "properties": {
+        "IncidentName": "Plantation Thin Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.932167, 46.7481670000001]
+      },
+      "properties": {
+        "IncidentName": "DNRC NORTH HILLS EAST PILE RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.462074, 62.1005690000001]
+      },
+      "properties": {
+        "IncidentName": "2025 CRS RX Glennallen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.973778, 39.0173330000001]
+      },
+      "properties": {
+        "IncidentName": "West Shubarth piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.84196, 44.69147]
+      },
+      "properties": {
+        "IncidentName": "Poison Springs RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.552484, 47.456576]
+      },
+      "properties": {
+        "IncidentName": "TBR RX - NORTH BOUNDARY PILES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.391467, 40.3196170000001]
+      },
+      "properties": {
+        "IncidentName": "Thompson River 5 Hand Piles Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.4363299999999, 31.103368]
+      },
+      "properties": {
+        "IncidentName": "YRN06 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.426167, 44.6078830000001]
+      },
+      "properties": {
+        "IncidentName": "Skull RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.345283, 38.527383]
+      },
+      "properties": {
+        "IncidentName": "Mill Creek RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.271767, 34.3170210000001]
+      },
+      "properties": {
+        "IncidentName": "Shelton RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.152222, 39.907222]
+      },
+      "properties": {
+        "IncidentName": "KRFO ACTIVITY PILES RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.376897, 38.907992]
+      },
+      "properties": {
+        "IncidentName": "Praise Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.6283, 30.72506667]
+      },
+      "properties": {
+        "IncidentName": "Rx Walker 0164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.713346, 33.345178]
+      },
+      "properties": {
+        "IncidentName": "NAVAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.688967, 44.4478330000001]
+      },
+      "properties": {
+        "IncidentName": "Phantom RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.0708, 47.1471670000001]
+      },
+      "properties": {
+        "IncidentName": "BLM Blacksmith Piles Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.416436, 35.649958]
+      },
+      "properties": {
+        "IncidentName": "TRAINING 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0485, 46.5148330000001]
+      },
+      "properties": {
+        "IncidentName": "T.S.H. Piles Unit 44 Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.559217, 34.5430230000001]
+      },
+      "properties": {
+        "IncidentName": "HUGHES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.0264999999999, 34.7081670000001]
+      },
+      "properties": {
+        "IncidentName": "Freedom Hills East RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.935533, 43.9921170000001]
+      },
+      "properties": {
+        "IncidentName": "Redbank RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.4045829999999, 34.0863610000001]
+      },
+      "properties": {
+        "IncidentName": "Otter Branch RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.080147, 31.4205700000001]
+      },
+      "properties": {
+        "IncidentName": "DCNF COMP 27 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.884268, 35.7787660000001]
+      },
+      "properties": {
+        "IncidentName": "BLACK KETTLE RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.326088, 34.8569800000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Walker Regeneration"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.54385, 31.5521170000001]
+      },
+      "properties": {
+        "IncidentName": "RX CAT C65-66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.119417, 46.541767]
+      },
+      "properties": {
+        "IncidentName": "Park City Piles Rx Units 69/93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7562, 34.9331]
+      },
+      "properties": {
+        "IncidentName": "RX MARTHA JONES JACOBS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.656965, 31.7686590000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Nacogdoches 0194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.35305556, 33.43388889]
+      },
+      "properties": {
+        "IncidentName": "Rx Bowie 0202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.5479, 31.1223000000001]
+      },
+      "properties": {
+        "IncidentName": "RX CALE C-373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.2218329999999, 31.100967]
+      },
+      "properties": {
+        "IncidentName": "ANF Sandy Creek COMP 73/74/75 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.795964, 32.9123090000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Camp 0219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.90083333, 31.9527777800001]
+      },
+      "properties": {
+        "IncidentName": "Rx Anderson 0213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.37055556, 33.4330555600001]
+      },
+      "properties": {
+        "IncidentName": "Rx Bowie 0214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.646472, 31.963781]
+      },
+      "properties": {
+        "IncidentName": "Rx Anderson 0224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.2515999999999, 33.2915]
+      },
+      "properties": {
+        "IncidentName": "Rx Bowie 0214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.3577999999999, 33.2394]
+      },
+      "properties": {
+        "IncidentName": "Rx Cass 0192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.67583333, 31.8680555600001]
+      },
+      "properties": {
+        "IncidentName": "Rx Rusk 0197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.19944444, 30.96361111]
+      },
+      "properties": {
+        "IncidentName": "Rx Trinity 0212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.819147, 33.438944]
+      },
+      "properties": {
+        "IncidentName": "Cave Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.354117, 26.18145]
+      },
+      "properties": {
+        "IncidentName": "FPR Ridge Road Rx 0127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.2909999999999, 34.6133]
+      },
+      "properties": {
+        "IncidentName": "RX KIAMICHI RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.531105, 35.7601520000001]
+      },
+      "properties": {
+        "IncidentName": "RX Lynn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.3345, 35.7036000000001]
+      },
+      "properties": {
+        "IncidentName": "RX Cove City Fields"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.499783, 35.0383670000001]
+      },
+      "properties": {
+        "IncidentName": "GRASS RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.795, 44.3206670000001]
+      },
+      "properties": {
+        "IncidentName": "Sugarloaf PB RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.3336, 31.51415]
+      },
+      "properties": {
+        "IncidentName": "TANGO RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.6469999999999, 30.196]
+      },
+      "properties": {
+        "IncidentName": "ANF BU 312 Rx 0128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.764833, 36.7026670000001]
+      },
+      "properties": {
+        "IncidentName": "Buttram RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.687909, 35.6542830000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Big Flat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.07955, 37.4617000000001]
+      },
+      "properties": {
+        "IncidentName": "Swamp Hollow Block 2 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.4343, 30.2403330000001]
+      },
+      "properties": {
+        "IncidentName": "OSF Ocean Pond Rx 0128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.632222, 33.334167]
+      },
+      "properties": {
+        "IncidentName": "LBJ Comp 41 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.694133, 34.7788]
+      },
+      "properties": {
+        "IncidentName": "RX Cedar Lake North Shore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.106389, 27.0886110000001]
+      },
+      "properties": {
+        "IncidentName": "SEA CW 15 Rx 0128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.066456, 47.1456420000001]
+      },
+      "properties": {
+        "IncidentName": "Blacksmith Machine Pile RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.06544065, 35.0728048300001]
+      },
+      "properties": {
+        "IncidentName": "Hardin-Martin Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.98507, 33.27649]
+      },
+      "properties": {
+        "IncidentName": "RX Lynn 0282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.41666667, 34.13333333]
+      },
+      "properties": {
+        "IncidentName": "RX Cottle 0244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.475203, 32.830471]
+      },
+      "properties": {
+        "IncidentName": "RX Tarrant 0257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.318, 36.1579]
+      },
+      "properties": {
+        "IncidentName": "Rx Wildcat 6 & 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.4439, 43.12978]
+      },
+      "properties": {
+        "IncidentName": "West Ravinia CRP RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.5911169999999, 30.4076670000001]
+      },
+      "properties": {
+        "IncidentName": "OSF CPT 129 19 RX 0129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.2929999999999, 37.631]
+      },
+      "properties": {
+        "IncidentName": "Elderberry RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.0656739999999, 37.4740660000001]
+      },
+      "properties": {
+        "IncidentName": "North Hollow Block 2 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.292648, 27.653958]
+      },
+      "properties": {
+        "IncidentName": "APQ Rec Area 4 Rx 0129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0352778, 37.1205556]
+      },
+      "properties": {
+        "IncidentName": "Cahas Mounttain Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.0129719999999, 35.7802780000001]
+      },
+      "properties": {
+        "IncidentName": "NORTH FORK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.375717, 26.194033]
+      },
+      "properties": {
+        "IncidentName": "FPR Big Pine Island Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.315783, 30.3488330000001]
+      },
+      "properties": {
+        "IncidentName": "OSF CPT 34 35 Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.7412619999999, 31.0947]
+      },
+      "properties": {
+        "IncidentName": "MiC 02 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.201153, 27.6395410000001]
+      },
+      "properties": {
+        "IncidentName": "APQ Recreation Area 10 Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.1392499999999, 30.765833]
+      },
+      "properties": {
+        "IncidentName": "OKR CPT 2 MU 1 Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.102222, 27.0427780000001]
+      },
+      "properties": {
+        "IncidentName": "SEA SW 9 Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.102222, 27.037222]
+      },
+      "properties": {
+        "IncidentName": "SEA SW 12 Gopher Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.892778, 26.3255560000001]
+      },
+      "properties": {
+        "IncidentName": "SEA NE 2 Robert Cypress Pasture Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.9025, 26.2675]
+      },
+      "properties": {
+        "IncidentName": "SEA SC 4 Clifton Billie Pasture Rx 0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.85472222, 32.07888889]
+      },
+      "properties": {
+        "IncidentName": "Rx Rusk 0269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.5925999999999, 31.9828000000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Anderson 0262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.61552327, 33.2634465100001]
+      },
+      "properties": {
+        "IncidentName": "Rx Bowie 0252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.6154999999999, 31.9708000000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Anderson 0250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.8559999999999, 32.9490270000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Camp 0251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.0032189999999, 32.3657480000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Van Zandt 0243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.2193, 33.2459000000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Cass 0248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.9077777799999, 31.94777778]
+      },
+      "properties": {
+        "IncidentName": "Rx Anderson 0245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.77083333, 31.6533333300001]
+      },
+      "properties": {
+        "IncidentName": "Rx Nacogdoches 0265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.916048, 31.33322]
+      },
+      "properties": {
+        "IncidentName": "Rx Sabine 0260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.58741667, 31.7698500000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Nacogdoches 0255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.7994444399999, 31.6347222200001]
+      },
+      "properties": {
+        "IncidentName": "Rx Nacogdoches 0254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.076814, 30.8743680000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Polk 0245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.0302777799999, 30.7777777800001]
+      },
+      "properties": {
+        "IncidentName": "Rx Polk 0245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.5788889, 34.9069444]
+      },
+      "properties": {
+        "IncidentName": "Lake Maumelle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.944553, 34.573294]
+      },
+      "properties": {
+        "IncidentName": "SFO PILES RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.1796667, 35.5795000000001]
+      },
+      "properties": {
+        "IncidentName": "Crooked Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.77055, 47.6075000000001]
+      },
+      "properties": {
+        "IncidentName": "Sun Canyon Rd Piles Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.9782499999999, 31.130883]
+      },
+      "properties": {
+        "IncidentName": "Fixed Wing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.731117, 44.158533]
+      },
+      "properties": {
+        "IncidentName": "Encino Man RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8681667, 35.0918333000001]
+      },
+      "properties": {
+        "IncidentName": "Coleman Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.61276667, 35.8983000000001]
+      },
+      "properties": {
+        "IncidentName": "White - Pollard Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.91961667, 36.1172166700001]
+      },
+      "properties": {
+        "IncidentName": "Smith - Hackett Valley Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.65045, 35.3700000000001]
+      },
+      "properties": {
+        "IncidentName": "Grundy - Tennessee 108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.5169, 35.57575]
+      },
+      "properties": {
+        "IncidentName": "Lewis - Indian Creek Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.201153, 27.6395410000001]
+      },
+      "properties": {
+        "IncidentName": "APQ Recreation Area 10 Rx  0131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.103892, 34.895881]
+      },
+      "properties": {
+        "IncidentName": "BFR HFR Unit 9/10 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.099722, 27.0369440000001]
+      },
+      "properties": {
+        "IncidentName": "SEA SW 12 Gopher Rx 0131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.120556, 27.0836110000001]
+      },
+      "properties": {
+        "IncidentName": "SEA CW 49 Board Rx 0131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.972222, 26.3225]
+      },
+      "properties": {
+        "IncidentName": "SEA SW 1 Chris Green Pasture Rx 0131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.95949, 30.566038]
+      },
+      "properties": {
+        "IncidentName": "Rx Jasper 0285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.0032189999999, 32.3657480000001]
+      },
+      "properties": {
+        "IncidentName": "RX Van Zandt 0249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.780278, 33.2711110000001]
+      },
+      "properties": {
+        "IncidentName": "RX Arlington Ponds"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.3334247499999, 33.21196875]
+      },
+      "properties": {
+        "IncidentName": "Rx Cass 0283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.1102777999999, 29.6997222000001]
+      },
+      "properties": {
+        "IncidentName": "CR 1469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.65394, 35.70057]
+      },
+      "properties": {
+        "IncidentName": "Blue Hills"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.0019599999999, 32.27615]
+      },
+      "properties": {
+        "IncidentName": "Viper 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.31378, 30.3398560000001]
+      },
+      "properties": {
+        "IncidentName": "Mailbox"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.60883, 44.1662600000001]
+      },
+      "properties": {
+        "IncidentName": "Trabing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.80073, 33.79207]
+      },
+      "properties": {
+        "IncidentName": "Philly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.1673, 31.5183000000001]
+      },
+      "properties": {
+        "IncidentName": "DCNF Comp 16/17/18 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.305583, 31.2783000000001]
+      },
+      "properties": {
+        "IncidentName": "ANF Bullet Creek RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.21575, 31.3347000000001]
+      },
+      "properties": {
+        "IncidentName": "ANF Bannister East RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.41668915, 34.1334246000001]
+      },
+      "properties": {
+        "IncidentName": "RX Cottle 0322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.33415, 30.06969]
+      },
+      "properties": {
+        "IncidentName": "RX Kerr 0331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.216287, 30.8179400000001]
+      },
+      "properties": {
+        "IncidentName": "RX Mason 0327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.07, 30.162222]
+      },
+      "properties": {
+        "IncidentName": "rx Edwards 0332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.2204169999999, 35.594072]
+      },
+      "properties": {
+        "IncidentName": "RX OKWSR-FY25-HFR Unit 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.14301854, 30.5606548700001]
+      },
+      "properties": {
+        "IncidentName": "Milam 0347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.347473, 34.4158850000001]
+      },
+      "properties": {
+        "IncidentName": "MAGIC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.24598933, 28.87488383]
+      },
+      "properties": {
+        "IncidentName": "Matagorda 0348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.641983, 33.352243]
+      },
+      "properties": {
+        "IncidentName": "C-18 RX BURN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.770278, 34.708333]
+      },
+      "properties": {
+        "IncidentName": "Rx Fiddler Regens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.795539, 31.1191610000001]
+      },
+      "properties": {
+        "IncidentName": "DxS 05 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.8038329999999, 35.5913330000001]
+      },
+      "properties": {
+        "IncidentName": "RX - Cades Cove"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.52647, 38.0065000000001]
+      },
+      "properties": {
+        "IncidentName": "Pyramid SRA 2 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.476667, 32.9663330000001]
+      },
+      "properties": {
+        "IncidentName": "Comp 22 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.560883, 35.1162170000001]
+      },
+      "properties": {
+        "IncidentName": "RX - O36 Madden Branch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.7044999999999, 34.7731170000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Cedar Lake N Shore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.42916667, 44.06138889]
+      },
+      "properties": {
+        "IncidentName": "SALVAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.31027778, 43.98916667]
+      },
+      "properties": {
+        "IncidentName": "MOP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.306111, 34.1616670000001]
+      },
+      "properties": {
+        "IncidentName": "FLYING MONKEYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.29416667, 43.9838888900001]
+      },
+      "properties": {
+        "IncidentName": "BLAZER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.13166, 38.19496]
+      },
+      "properties": {
+        "IncidentName": "Fogel Pole Nature Preserve RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.35145, 44.5813670000001]
+      },
+      "properties": {
+        "IncidentName": "Althea RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.26395, 44.2905000000001]
+      },
+      "properties": {
+        "IncidentName": "Fish RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.265812, 44.612018]
+      },
+      "properties": {
+        "IncidentName": "Ribs RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.907843, 35.4938090000001]
+      },
+      "properties": {
+        "IncidentName": "RX OKDFR-HFR-FY25-RX-DONEGHY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.31, 45.6850000000001]
+      },
+      "properties": {
+        "IncidentName": "7 Mile Barn Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.357, 45.6900000000001]
+      },
+      "properties": {
+        "IncidentName": "7 Mile Beacon Hill Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.339, 45.688]
+      },
+      "properties": {
+        "IncidentName": "Pit Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.04737, 34.2569]
+      },
+      "properties": {
+        "IncidentName": "Patrick Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.907212, 33.0880740000001]
+      },
+      "properties": {
+        "IncidentName": "VEG/ZL/71A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.8446049999999, 26.363206]
+      },
+      "properties": {
+        "IncidentName": "RIO SAN JUAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5787999999999, 27.41635]
+      },
+      "properties": {
+        "IncidentName": "Rx Kleberg 0343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.07, 30.16222222]
+      },
+      "properties": {
+        "IncidentName": "RX Edwards 0344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.9238888899999, 32.7405555600001]
+      },
+      "properties": {
+        "IncidentName": "Upshur 0368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.3647222, 35.0313889]
+      },
+      "properties": {
+        "IncidentName": "Panther Mill Fire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.66144, 34.2346700000001]
+      },
+      "properties": {
+        "IncidentName": "ROCKY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.182, 33.9075700000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-045705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.06222, 34.56791]
+      },
+      "properties": {
+        "IncidentName": "LAC-045752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.16546, 34.6162800000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-045756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.743722, 36.6863080000001]
+      },
+      "properties": {
+        "IncidentName": "S GOLDEN STATE BLVD  FRESNO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.293942, 36.904705]
+      },
+      "properties": {
+        "IncidentName": "MAXON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.260053, 33.707438]
+      },
+      "properties": {
+        "IncidentName": "HY 111  / SHIELDS RD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.97489, 34.5429]
+      },
+      "properties": {
+        "IncidentName": "LAC-045989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3214, 33.92524]
+      },
+      "properties": {
+        "IncidentName": "LAC-046109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.73929, 34.0665000000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-046135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.90757, 34.1202700000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-046144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.597433, 29.0531]
+      },
+      "properties": {
+        "IncidentName": "OCF Levy AA Rx 0204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.93091, 33.9977000000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-046194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.7758499999999, 35.8303000000001]
+      },
+      "properties": {
+        "IncidentName": "Blount - RX Keener Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.192967, 34.797717]
+      },
+      "properties": {
+        "IncidentName": "Hickory Flat 2 AP RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.564722, 34.537222]
+      },
+      "properties": {
+        "IncidentName": "Delta S Block 2 EN RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1702779999999, 34.5805560000001]
+      },
+      "properties": {
+        "IncidentName": "1506 CRR RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.089, 39.0719]
+      },
+      "properties": {
+        "IncidentName": "Fillmore Pile RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.025, 26.298889]
+      },
+      "properties": {
+        "IncidentName": "SEA WUI 12 Rx 0204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.9557, 39.316903]
+      },
+      "properties": {
+        "IncidentName": "M1 ROADSIDE PILES RX UNIT 7-11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.574167, 33.298056]
+      },
+      "properties": {
+        "IncidentName": "C-53 RX BURN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.90972222, 43.1380555600001]
+      },
+      "properties": {
+        "IncidentName": "Frozen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.14774, 34.6165300000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-046288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.7698, 43.0621]
+      },
+      "properties": {
+        "IncidentName": "Turn Signal RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.27, 35.41]
+      },
+      "properties": {
+        "IncidentName": "SEQUOIA N.F./TILLIE RX/FEB 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.3177736599999, 42.8556004600001]
+      },
+      "properties": {
+        "IncidentName": "240125DerryFire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.765771, 39.04317]
+      },
+      "properties": {
+        "IncidentName": "ARRD PILES - MICHIGAN BLUFF RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.608417, 43.974117]
+      },
+      "properties": {
+        "IncidentName": "Thrush RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.9272, 44.170375]
+      },
+      "properties": {
+        "IncidentName": "North Zone Piles RX 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.01078272, 36.29693396]
+      },
+      "properties": {
+        "IncidentName": "Smith-Snow Creek RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.1629, 43.6156]
+      },
+      "properties": {
+        "IncidentName": "Fairfield Pile Burn RX 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.285, 42.1883]
+      },
+      "properties": {
+        "IncidentName": "MRD Pile Burn RX 2025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.468228, 37.042067]
+      },
+      "properties": {
+        "IncidentName": "973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.892, 40.708]
+      },
+      "properties": {
+        "IncidentName": "Trinity CO Brown RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.002283, 45.9889000000001]
+      },
+      "properties": {
+        "IncidentName": "Pompeys Pillar RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.16158, 33.9487800000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-046392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.787217, 40.0175]
+      },
+      "properties": {
+        "IncidentName": "Fair Hand Piles Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.1677777799999, 17.98583333]
+      },
+      "properties": {
+        "IncidentName": "BELFORD FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.544495, 27.435551]
+      },
+      "properties": {
+        "IncidentName": "Rx Kleberg 0355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.0405, 30.4375000000001]
+      },
+      "properties": {
+        "IncidentName": "RX Travis 0353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.958185, 43.787271]
+      },
+      "properties": {
+        "IncidentName": "RX Dorena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.249996, 30.3262750000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Blanco 0354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.3418599999999, 30.02401]
+      },
+      "properties": {
+        "IncidentName": "Rx Kerr 0357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.238237, 48.252705]
+      },
+      "properties": {
+        "IncidentName": "MISSION CREEK PILES RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.909901, 43.191946]
+      },
+      "properties": {
+        "IncidentName": "Brewster Helipond RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-124.193314, 42.3598950000001]
+      },
+      "properties": {
+        "IncidentName": "Hunter Cr ACEC RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.768177, 44.434128]
+      },
+      "properties": {
+        "IncidentName": "North Britt Rd Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.951783, 44.3204670000001]
+      },
+      "properties": {
+        "IncidentName": "HUNTER SHG PILES RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.24625, 44.1292]
+      },
+      "properties": {
+        "IncidentName": "UNIT 17 PILES RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.265, 30.2581000000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Bastrop 0356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.986217, 44.0730500000001]
+      },
+      "properties": {
+        "IncidentName": "DOYLE CAMPGROUND RX PILES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.6629, 31.0881430000001]
+      },
+      "properties": {
+        "IncidentName": "BrB05 Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.725788, 31.070564]
+      },
+      "properties": {
+        "IncidentName": "MiC 07 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.6318209999999, 31.093738]
+      },
+      "properties": {
+        "IncidentName": "BrB 04 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.631947, 31.120013]
+      },
+      "properties": {
+        "IncidentName": "BrB 01 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.6195099999999, 31.0050870000001]
+      },
+      "properties": {
+        "IncidentName": "BHS 10 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8105439999999, 31.026977]
+      },
+      "properties": {
+        "IncidentName": "RKC04/05 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.2713333, 35.2428333]
+      },
+      "properties": {
+        "IncidentName": "Cummings Place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.24539, 34.6746200000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-046932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.95732, 34.1360700000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-047033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.72084, 34.7485800000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-047088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.32974, 34.46689]
+      },
+      "properties": {
+        "IncidentName": "CAMINO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.56825, 34.4474900000001]
+      },
+      "properties": {
+        "IncidentName": "FREDDY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.88989, 34.61659]
+      },
+      "properties": {
+        "IncidentName": "LAC-047281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.11597, 34.5764300000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-047325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.659528, 32.093555]
+      },
+      "properties": {
+        "IncidentName": "Rx Rusk 0363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.67, 30.8160100000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Polk 0366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.74055556, 31.6880555600001]
+      },
+      "properties": {
+        "IncidentName": "Rx Nacogdoches 0358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.0149269999999, 30.5279840000001]
+      },
+      "properties": {
+        "IncidentName": "Rx San Jacinto 0360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.023544, 30.9440300000001]
+      },
+      "properties": {
+        "IncidentName": "Rx Jasper 0352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.172673, 30.250595]
+      },
+      "properties": {
+        "IncidentName": "Rx Hardin 0351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.572633, 35.192622]
+      },
+      "properties": {
+        "IncidentName": "RX Flagstaff WUI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.878611, 26.2902780000001]
+      },
+      "properties": {
+        "IncidentName": "SEA SE 1 Rx 0205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.9557, 35.8384]
+      },
+      "properties": {
+        "IncidentName": "RX - Walnut Mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.624702, 31.2334080000001]
+      },
+      "properties": {
+        "IncidentName": "RX CALE C-17 CANCELLED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8330589999999, 31.0070870000001]
+      },
+      "properties": {
+        "IncidentName": "RKC 06/07 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.6548329999999, 30.528333]
+      },
+      "properties": {
+        "IncidentName": "SHNF COMP 21 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.16587, 34.7039500000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-047557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.106667, 27.103056]
+      },
+      "properties": {
+        "IncidentName": "SEA CW 10 Rx 0205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.496383, 35.7004170000001]
+      },
+      "properties": {
+        "IncidentName": "FWS Pea Island RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.114722, 27.0869440000001]
+      },
+      "properties": {
+        "IncidentName": "SEA CW16 Rx 0205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5443999999999, 27.435551]
+      },
+      "properties": {
+        "IncidentName": "RX Kleberg 0372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.472222, 43.7622220000001]
+      },
+      "properties": {
+        "IncidentName": "Legion Lake 2 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.6321, 39.3886000000001]
+      },
+      "properties": {
+        "IncidentName": "Virginia Highlands FD RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.468889, 43.7111110000001]
+      },
+      "properties": {
+        "IncidentName": "Lame Johnny RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.67955, 46.953133]
+      },
+      "properties": {
+        "IncidentName": "Buffalo Gap Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.503333, 43.7711110000001]
+      },
+      "properties": {
+        "IncidentName": "Stockade RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.935732, 39.469838]
+      },
+      "properties": {
+        "IncidentName": "YRRD PILES - MADRONE SPRINGS RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.123109, 39.3960450000001]
+      },
+      "properties": {
+        "IncidentName": "YRRD PILES - CAMP SS RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.636742, 48.2903450000001]
+      },
+      "properties": {
+        "IncidentName": "Denbigh Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.1042, 31.3999000000001]
+      },
+      "properties": {
+        "IncidentName": "DCNF COMP 28 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.596944, 33.797194]
+      },
+      "properties": {
+        "IncidentName": "NORTH MAIN WCSL RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.198802, 33.708579]
+      },
+      "properties": {
+        "IncidentName": "INDIO BL / VAN BUREN ST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.523, 41.5259]
+      },
+      "properties": {
+        "IncidentName": "Ti Bar Machine Piles Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.51945, 41.3107000000001]
+      },
+      "properties": {
+        "IncidentName": "2023 Lightning Complex Supression Repair Piles Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.643, 43.5530000000001]
+      },
+      "properties": {
+        "IncidentName": "RX SOUTHEAST IDAHO REFUGE COMPLEX PILE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.266083, 33.7727830000001]
+      },
+      "properties": {
+        "IncidentName": "RX Compartment 166-170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.795617, 38.971617]
+      },
+      "properties": {
+        "IncidentName": "TRAILHEAD RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.4808829999999, 33.1793000000001]
+      },
+      "properties": {
+        "IncidentName": "RX Compartment 126-127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.03535, 41.7012500000001]
+      },
+      "properties": {
+        "IncidentName": "Bear River SFA Conifer Encroachment Project RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.11947, 33.9754]
+      },
+      "properties": {
+        "IncidentName": "LAC-048093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.02483, 34.06879]
+      },
+      "properties": {
+        "IncidentName": "LAC-048101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.103278, 31.3925830000001]
+      },
+      "properties": {
+        "IncidentName": "ND WIEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2837, 33.8026100000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-048256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.634, 36.1890500000001]
+      },
+      "properties": {
+        "IncidentName": "SEQUOIA N.F./ALDER CREEK RX/FEB 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.05434, 34.463804]
+      },
+      "properties": {
+        "IncidentName": "ASSIST/BDU/HIGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.2077, 33.7114080000001]
+      },
+      "properties": {
+        "IncidentName": "CALHOUN ST  INDO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1707, 33.9539]
+      },
+      "properties": {
+        "IncidentName": "LAC-048520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.829917, 35.295617]
+      },
+      "properties": {
+        "IncidentName": "UWH Lewis Mill Pond  RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.6905, 33.100333]
+      },
+      "properties": {
+        "IncidentName": "C-183 FM RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8790559999999, 33.1683610000001]
+      },
+      "properties": {
+        "IncidentName": "C-88 FM RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.0967449999999, 38.439689]
+      },
+      "properties": {
+        "IncidentName": "Observation Deck 2025 Rx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.316883, 31.175467]
+      },
+      "properties": {
+        "IncidentName": "ANF Mud Creek RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.98122, 44.5335700000001]
+      },
+      "properties": {
+        "IncidentName": "Intro to Wildland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.803667, 30.550167]
+      },
+      "properties": {
+        "IncidentName": "SHNF Comp 5 West RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.1963, 31.3924000000001]
+      },
+      "properties": {
+        "IncidentName": "DCNF COMP 34 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.1439999999999, 30.9760000000001]
+      },
+      "properties": {
+        "IncidentName": "RX CALV C-111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.186389, 34.5700000000001]
+      },
+      "properties": {
+        "IncidentName": "1504C CRR RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.703333, 31.3177170000001]
+      },
+      "properties": {
+        "IncidentName": "SNF Indian Mounds C-102 RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.978056, 26.3205560000001]
+      },
+      "properties": {
+        "IncidentName": "SEA SW-1 Chris Green Pasture Rx 0206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.702778, 32.6783330000001]
+      },
+      "properties": {
+        "IncidentName": "Combahee Unit ACR RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.9227779999999, 26.2886110000001]
+      },
+      "properties": {
+        "IncidentName": "SEA SC-1 Leoma Taylor Pasture Rx 0206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.42209852, 43.3623048700001]
+      },
+      "properties": {
+        "IncidentName": "Oak Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.41666667, 34.13333333]
+      },
+      "properties": {
+        "IncidentName": "RX Cottle 0384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.1122, 30.3606]
+      },
+      "properties": {
+        "IncidentName": "RX Travis 0387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.6455329999999, 33.4089500000001]
+      },
+      "properties": {
+        "IncidentName": "LBJ COMP 908 S RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.219076, 38.446375]
+      },
+      "properties": {
+        "IncidentName": "Marysvale EWC RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.019852, 46.7228710000001]
+      },
+      "properties": {
+        "IncidentName": "CLO Pile RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.051385, 46.7838980000001]
+      },
+      "properties": {
+        "IncidentName": "McLeod Basin Piles RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-124.443619, 42.9897070000001]
+      },
+      "properties": {
+        "IncidentName": "New River ACEC RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.715006, 43.742463]
+      },
+      "properties": {
+        "IncidentName": "Vincent Fire Road Helipond RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.893408, 31.3740530000001]
+      },
+      "properties": {
+        "IncidentName": "Kings Ferry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.065899, 36.297239]
+      },
+      "properties": {
+        "IncidentName": "ROCKY HILL RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.000052, 36.1142530000001]
+      },
+      "properties": {
+        "IncidentName": "LEWIS HILL RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.91063, 35.9894400000001]
+      },
+      "properties": {
+        "IncidentName": "ROCK PLANT RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.818282, 36.194307]
+      },
+      "properties": {
+        "IncidentName": "MERRITT VMP RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.134999, 36.369739]
+      },
+      "properties": {
+        "IncidentName": "GILLS RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.990799, 36.0368290000001]
+      },
+      "properties": {
+        "IncidentName": "PDC RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.97248, 36.6026860000001]
+      },
+      "properties": {
+        "IncidentName": "CRAWFORD VMP RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.972872, 36.398802]
+      },
+      "properties": {
+        "IncidentName": "KAWEAH RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.69104, 36.233435]
+      },
+      "properties": {
+        "IncidentName": "FRASIER TANK RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.695105, 36.2411300000001]
+      },
+      "properties": {
+        "IncidentName": "HUBBS HILL RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.65773, 36.2467290000001]
+      },
+      "properties": {
+        "IncidentName": "UPPER MOSES RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.591035, 43.7986560000001]
+      },
+      "properties": {
+        "IncidentName": "Jeff Creek Helipond RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.774731, 43.759684]
+      },
+      "properties": {
+        "IncidentName": "Buck Wassen Helipond RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.692746, 43.728509]
+      },
+      "properties": {
+        "IncidentName": "Weatherly Helipond RX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1389, 33.4761310000001]
+      },
+      "properties": {
+        "IncidentName": "I 15  N/ TEMECULA PY OFRP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.4223699999999, 31.8958900000001]
+      },
+      "properties": {
+        "IncidentName": "Shelby 0406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.0658329999999, 31.453611]
+      },
+      "properties": {
+        "IncidentName": "RX KIS C-28-41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.7506099999999, 30.6878800000001]
+      },
+      "properties": {
+        "IncidentName": "Spring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.117499, 33.4750790000001]
+      },
+      "properties": {
+        "IncidentName": "SAMANTHA LN  TEM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.29797222, 35.24236111]
+      },
+      "properties": {
+        "IncidentName": "Querino Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.15842, 26.4701000000001]
+      },
+      "properties": {
+        "IncidentName": "Sancap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2099, 33.9247100000001]
+      },
+      "properties": {
+        "IncidentName": "LAC-049353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.651173, 40.4224100000001]
+      },
+      "properties": {
+        "IncidentName": "2025 BUTTE COUNTY PILE RX"
+      }
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-# For use with direnv: https://direnv.net/
-# cp .envrc{.example,}
-
-export WILDFIRES_API_KEY=your_api_key_here

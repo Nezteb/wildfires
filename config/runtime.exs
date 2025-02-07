@@ -10,5 +10,5 @@ import Config
 
 # The block below contains prod specific runtime configuration.
 if config_env() == :prod do
-  config :wildfires, :api_key, System.fetch_env!("WILDFIRES_API_KEY")
+  config :wildfires, api: []
 end
