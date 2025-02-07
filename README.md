@@ -20,6 +20,8 @@ docker compose up --build wildfires
 
 # Debugging:
 iex -S mix
+# or
+iex -S mix run --no-start
 ```
 
 ### Links
@@ -32,8 +34,9 @@ iex -S mix
 
 ### TODO
 
-- [ ] Perimeter data
-- [ ] Packaging and deployment plan
-- [ ] Telemetry/Monitoring of workload
-- [ ] UI to visualize current fires
-- [ ] Unit/Integration tests
+- [?] Perimeter data
+  - 
+- [X] Packaging and deployment plan
+- [X] Telemetry/Monitoring of workload
+- [?] UI to visualize current fires
+- [~] Unit/Integration tests

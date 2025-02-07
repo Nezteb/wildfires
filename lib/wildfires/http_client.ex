@@ -25,5 +25,14 @@ defmodule Wildfires.HTTPClient do
     ]
     |> Keyword.merge(Application.get_env(:wildfires, :api, []))
     |> Req.request()
+    |> handle_response()
+  end
+
+  defp handle_response({:ok, response}) do
+    {:ok, response.body}
+  end
+
+  defp handle_response({:error, response}) do
+    {:error, response}
   end
 end

@@ -13,7 +13,11 @@ defmodule Wildfires.MixProject do
       releases: [
         wildfires: [
           include_executables_for: [:unix],
-          applications: [runtime_tools: :permanent]
+          applications: [
+            runtime_tools: :permanent,
+            opentelemetry_exporter: :permanent,
+            opentelemetry: :temporary
+          ]
         ]
       ]
     ]
@@ -32,7 +36,7 @@ defmodule Wildfires.MixProject do
   # Run "mix help compile.app" to learn about applications.
   def application do
     [
-      extra_applications: [:logger],
+      extra_applications: [:logger, :runtime_tools],
       mod: {Wildfires.Application, []}
     ]
   end

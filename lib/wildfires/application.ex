@@ -23,10 +23,9 @@ defmodule Wildfires.Application do
     :ok = OpentelemetryEcto.setup([:wildfires, :repo])
 
     children = [
-      # Starts a worker by calling: Wildfires.Worker.start_link(arg)
-      # {Wildfires.Worker, arg}
       Wildfires.Repo,
-      {Bandit, plug: Wildfires.Router, scheme: :http, port: 4000}
+      {Bandit, plug: Wildfires.Router, scheme: :http, port: 4000},
+      Wildfires.Cron
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
