@@ -6,12 +6,20 @@ Setup commands:
 mix deps.get
 mix compile
 
-# Test
-docker compose up --detach --remove-orphans --renew-anon-volumes --force-recreate postgres
+# Start dependencies and run tests
+docker compose up --detach \
+  --remove-orphans \
+  --renew-anon-volumes \
+  --force-recreate \
+  postgres otel jaeger
+
 mix test
 
 # Run app in container
-docker compose up --detach --remove-orphans --renew-anon-volumes --force-recreate --build wildfires
+docker compose up --build wildfires
+
+# Debugging:
+iex -S mix
 ```
 
 ### Links

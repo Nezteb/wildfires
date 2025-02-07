@@ -11,7 +11,7 @@ defmodule Wildfires.Router do
 
   get "/ws" do
     conn
-    |> WebSockAdapter.upgrade(EchoServer, [], timeout: 60_000)
+    |> WebSockAdapter.upgrade(Wildfires.Server, [], timeout: 60_000)
     |> halt()
   end
 

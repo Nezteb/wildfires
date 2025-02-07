@@ -11,4 +11,6 @@ import Config
 # The block below contains prod specific runtime configuration.
 if config_env() == :prod do
   config :wildfires, api: []
+
+  config :opentelemetry_exporter, otlp_endpoint: System.get_env("OTEL_ENDPOINT")
 end

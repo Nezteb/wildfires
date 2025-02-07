@@ -1,0 +1,38 @@
+# OpenTelemetry Collector config that receives OTLP and exports to Jager
+# https://opentelemetry.io/docs/languages/erlang/exporters/
+receivers:
+  otlp:
+    protocols:
+      grpc:
+        endpoint: '0.0.0.0:4317'
+      http:
+        endpoint: '0.0.0.0:4318'
+        cors:
+          allowed_origins:
+          - "http://localhost:4000"
+          - "http://wildfires:4000"
+processors:
+  batch:
+    send_batch_size: 1024
+    timeout: 5s
+exporters:
+  debug:
+    verbosity: detailed
+  otlp/jaeger:
+    endpoint: jaeger:4317
+    tls:
+      insecure: true
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [debug, otlp/jaeger]
+    metrics:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [debug]
+    logs:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [debug]

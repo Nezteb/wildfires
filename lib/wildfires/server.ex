@@ -18,7 +18,14 @@ defmodule Wildfires.Server do
   end
 
   @impl WebSock
+  def handle_in({message, _opcode}, state) do
+    Logger.info("Unhandled message", message: message)
+    {:ok, state}
+  end
+
+  @impl WebSock
   def handle_info(input, state) do
+    Logger.info("Received", input: inspect(input))
     {:ok, state}
   end
 
@@ -29,7 +36,7 @@ defmodule Wildfires.Server do
   end
 
   @impl WebSock
-  def terminate(reason, state) do
+  def terminate(_reason, state) do
     {:ok, state}
   end
 end

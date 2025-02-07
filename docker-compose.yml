@@ -4,8 +4,11 @@ services:
       context: .
     depends_on:
       - postgres
+      - otel
+      - jager
     ports:
       - 4000:4000 # http
+
   postgres:
     image: 'postgis/postgis:17-3.5'
     ports:
@@ -14,6 +17,25 @@ services:
       - postgres_data:/var/lib/postgresql/data/
     environment:
       POSTGRES_PASSWORD: postgres
+
+  otel:
+    links:
+    - jaeger
+    image: otel/opentelemetry-collector-contrib:latest
+    command: ['--config=/conf/otel-collector-config.yaml']
+    ports:
+      - 4317:4317
+      - 4318:4318
+      - 55679:55679
+    volumes:
+      - ./otel-collector-config.yaml:/conf/otel-collector-config.yaml
+
+  jaeger:
+    image: jaegertracing/all-in-one:latest
+    ports:
+      - 16686:16686
+      - 14268:14268
+      - "4317"
 
 volumes:
   postgres_data:

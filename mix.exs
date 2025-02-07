@@ -45,7 +45,12 @@ defmodule Wildfires.MixProject do
       {:bandit, "~> 1.0"},
       {:websock_adapter, "~> 0.5.8"},
       {:plug, "~> 1.16"},
-      {:req, "~> 0.5"}
+      {:req, "~> 0.5"},
+      {:opentelemetry, "~> 1.5"},
+      {:opentelemetry_api, "~> 1.4"},
+      {:opentelemetry_exporter, "~> 1.8"},
+      {:opentelemetry_bandit, "~> 0.2"},
+      {:opentelemetry_ecto, "~> 1.2"}
     ]
   end
 end

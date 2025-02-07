@@ -1,7 +1,7 @@
 import Config
 
-config :wildfires, Wildfires.Repo,
-  database: "wildfires_repo_#{Mix.env()}",
-  username: "postgres",
-  password: "postgres",
-  hostname: "postgres"
+config :wildfires, Wildfires.Repo, hostname: "postgres"
+
+config :opentelemetry_exporter,
+  otlp_compression: :gzip,
+  otlp_endpoint: "http://localhost:4318"

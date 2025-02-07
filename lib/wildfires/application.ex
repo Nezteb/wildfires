@@ -9,7 +9,18 @@ defmodule Wildfires.Application do
 
   @impl true
   def start(_type, _args) do
-    Logger.info("STARTING")
+    config =
+      :wildfires
+      |> Application.get_all_env()
+      |> Map.new()
+      |> inspect()
+
+    Logger.info("Starting #{__MODULE__}", config: config)
+
+    opt_ins = []
+    OpentelemetryBandit.setup(opt_in_attrs: opt_ins)
+
+    :ok = OpentelemetryEcto.setup([:wildfires, :repo])
 
     children = [
       # Starts a worker by calling: Wildfires.Worker.start_link(arg)
