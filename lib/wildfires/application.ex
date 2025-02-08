@@ -17,20 +17,30 @@ defmodule Wildfires.Application do
 
     Logger.info("Starting #{__MODULE__}", config: config)
 
-    opt_ins = []
-    OpentelemetryBandit.setup(opt_in_attrs: opt_ins)
-
-    :ok = OpentelemetryEcto.setup([:wildfires, :repo])
-
-    children = [
-      Wildfires.Repo,
-      {Bandit, plug: Wildfires.Router, scheme: :http, port: 4000},
-      Wildfires.Cron
-    ]
-
     # See https://hexdocs.pm/elixir/Supervisor.html
     # for other strategies and supported options
     opts = [strategy: :one_for_one, name: Wildfires.Supervisor]
-    Supervisor.start_link(children, opts)
+
+    Mix.env()
+    |> maybe_start_telemetry()
+    |> get_children_for_env()
+    |> merge_common_children()
+    |> Supervisor.start_link(opts)
+  after
+    Logger.critical("Open http://localhost:4000")
   end
+
+  defp maybe_start_telemetry(env) when env in [:prod] do
+    :ok = OpentelemetryBandit.setup(opt_in_attrs: [])
+    :ok = OpentelemetryEcto.setup([:wildfires, :repo])
+    env
+  end
+
+  defp maybe_start_telemetry(env), do: env
+
+  defp get_children_for_env(:test), do: []
+  defp get_children_for_env(_), do: [Wildfires.Cron]
+
+  defp merge_common_children(children),
+    do: [Wildfires.Repo, {Bandit, plug: Wildfires.Router, scheme: :http, port: 4000}] ++ children
 end

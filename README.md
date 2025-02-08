@@ -13,6 +13,8 @@ docker compose up --detach \
   --force-recreate \
   postgres otel jaeger
 
+mix ecto.create 
+
 mix test
 
 # Run app in container

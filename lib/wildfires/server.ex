@@ -1,6 +1,8 @@
 defmodule Wildfires.Server do
   @moduledoc """
-  Websocket server for wildfires
+  Websocket server for wildfires.
+
+  TODO: Fetch from DB instead of querying each time.
   """
 
   require Logger
@@ -14,7 +16,19 @@ defmodule Wildfires.Server do
 
   @impl WebSock
   def handle_in({"ping", [opcode: :text]}, state) do
+    Logger.info("pong")
     {:reply, :ok, {:text, "pong"}, state}
+  end
+
+  @impl WebSock
+  def handle_in({"get", [opcode: :text]}, state) do
+    {:reply, :ok, {:text, Jason.encode!(state)}, state}
+  end
+
+  @impl WebSock
+  def handle_in({"refresh", [opcode: :text]}, state) do
+    {:ok, wildfires} = do_fetch(state)
+    {:reply, :ok, {:text, Jason.encode!(wildfires)}, wildfires}
   end
 
   @impl WebSock
@@ -38,5 +52,18 @@ defmodule Wildfires.Server do
   @impl WebSock
   def terminate(_reason, state) do
     {:ok, state}
+  end
+
+  defp do_fetch(state) do
+    case Wildfires.HTTPClient.get_wildfires() do
+      {:ok, wildfires} ->
+        {:ok, wildfires}
+
+      {:error, error} ->
+        Logger.error("API fetch error", error: inspect(error))
+        {:ok, state}
+        # TODO: We could also stop on errors (in the case upstream API is down)
+        # {:stop, :api_fetch_error, error}
+    end
   end
 end

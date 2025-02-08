@@ -21,7 +21,7 @@ services:
   otel:
     links:
     - jaeger
-    image: otel/opentelemetry-collector-contrib:latest
+    image: otel/opentelemetry-collector-contrib:0.119.0
     command: ['--config=/conf/otel-collector-config.yaml']
     ports:
       - 4317:4317
@@ -31,7 +31,7 @@ services:
       - ./otel-collector-config.yaml:/conf/otel-collector-config.yaml
 
   jaeger:
-    image: jaegertracing/all-in-one:latest
+    image: jaegertracing/all-in-one:1.66.0
     ports:
       - 16686:16686
       - 14268:14268

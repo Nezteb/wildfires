@@ -29,7 +29,10 @@ defmodule Wildfires.MixProject do
 
   defp aliases do
     [
-      test: ["ecto.create --quiet", "ecto.migrate", "test"]
+      setup: ["deps.get", "compile", "ecto.setup"],
+      "ecto.setup": ["ecto.create", "ecto.migrate"],
+      "ecto.reset": ["ecto.drop", "ecto.setup"],
+      test: ["setup", "test"]
     ]
   end
 

@@ -1,4 +1,11 @@
 defmodule Wildfires.Cron do
+  @moduledoc """
+  A simple cron worker meant to fetch wildfire data
+  at a regular interval.
+
+  TODO: Store incidents in DB.
+  """
+
   use GenServer
 
   require Logger

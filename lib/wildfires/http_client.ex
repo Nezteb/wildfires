@@ -23,10 +23,12 @@ defmodule Wildfires.HTTPClient do
         layer_id: @layer_id
       ]
     ]
-    |> Keyword.merge(Application.get_env(:wildfires, :api, []))
+    |> Keyword.merge(get_config())
     |> Req.request()
     |> handle_response()
   end
+
+  defp get_config(), do: Application.get_env(:wildfires, :api, [])
 
   defp handle_response({:ok, response}) do
     {:ok, response.body}

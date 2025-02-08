@@ -7,6 +7,8 @@ defmodule WildfiresTest do
       Req.Test.json(conn, %{})
     end)
 
+    Req.Test.expect(MyStub, &Plug.Conn.send_resp(&1, 200, "ok"))
+
     :ok
   end
 end
