@@ -37,8 +37,9 @@ iex -S mix run --no-start
 ### TODO
 
 - [?] Perimeter data
-  - 
+  - What does this mean?
 - [X] Packaging and deployment plan
 - [X] Telemetry/Monitoring of workload
-- [?] UI to visualize current fires
+- [X] UI to visualize current fires
 - [~] Unit/Integration tests
+  - In progress
