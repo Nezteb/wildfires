@@ -1,4 +1,4 @@
-# OpenTelemetry Collector config that receives OTLP and exports to Jager
+# OpenTelemetry Collector config that receives OTLP and exports to Jaeger
 # https://opentelemetry.io/docs/languages/erlang/exporters/
 receivers:
   otlp:

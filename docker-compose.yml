@@ -5,7 +5,7 @@ services:
     depends_on:
       - postgres
       - otel
-      - jager
+      - jaeger
     ports:
       - 4000:4000 # http
 

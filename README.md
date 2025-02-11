@@ -1,30 +1,60 @@
 # Wildfires
 
-Setup commands:
-```
-# Build
-mix deps.get
-mix compile
+## Building / Testing
 
-# Start dependencies and run tests
+Setup commands:
+
+```
+# Start dependency services
 docker compose up --detach \
   --remove-orphans \
   --renew-anon-volumes \
   --force-recreate \
   postgres otel jaeger
 
-mix ecto.create 
+# Build
+mix deps.get
+mix compile
+mix ecto.create
 
-mix test
-
-# Run app in container
-docker compose up --build wildfires
-
-# Debugging:
+# Debugging/Testing
 iex -S mix
 # or
 iex -S mix run --no-start
+
+# Run tests
+MIX_ENV=test mix ecto.create 
+mix test
 ```
+
+Once your server is running, you can view the app at: http://localhost:4000/
+
+## Deploying 
+
+```
+# Run entire stack in container
+docker compose up --detach \
+  --remove-orphans \
+  --renew-anon-volumes \
+  --force-recreate \
+  --build
+```
+
+You can still view the app at: http://localhost:4000/
+
+Once running the entire docker stack (which uses `MIX_ENV=prod`), you'll also be able to see Jaeger telemetry here: http://localhost:16686/search
+
+If I'm running the app (it's on most of the day), you can also see it at: https://wildfires.nezteb.net/
+
+## Screenshots
+
+The app:
+
+![App Demo](./screenshots/app-demo.png)
+
+Jaeger:
+
+![Jaeger Demo](./screenshots/jaeger-demo.png)
 
 ### Links
 
@@ -37,9 +67,7 @@ iex -S mix run --no-start
 ### TODO
 
 - [?] Perimeter data
-  - What does this mean?
 - [X] Packaging and deployment plan
 - [X] Telemetry/Monitoring of workload
 - [X] UI to visualize current fires
-- [~] Unit/Integration tests
-  - In progress
+- [X] Unit/Integration tests

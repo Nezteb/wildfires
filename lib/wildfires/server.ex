@@ -11,24 +11,28 @@ defmodule Wildfires.Server do
 
   @impl WebSock
   def init(options) do
-    {:ok, options}
+    if options[:skip_fetch] do
+      Logger.info("Skipping initial fetch")
+      {:ok, []}
+    else
+      do_fetch([])
+    end
   end
 
   @impl WebSock
   def handle_in({"ping", [opcode: :text]}, state) do
-    Logger.info("pong")
-    {:reply, :ok, {:text, "pong"}, state}
+    {:push, {:text, "pong"}, state}
   end
 
   @impl WebSock
   def handle_in({"get", [opcode: :text]}, state) do
-    {:reply, :ok, {:text, Jason.encode!(state)}, state}
+    {:push, {:text, Jason.encode!(state)}, state}
   end
 
   @impl WebSock
   def handle_in({"refresh", [opcode: :text]}, state) do
     {:ok, wildfires} = do_fetch(state)
-    {:reply, :ok, {:text, Jason.encode!(wildfires)}, wildfires}
+    {:push, {:text, Jason.encode!(wildfires)}, wildfires}
   end
 
   @impl WebSock
@@ -44,7 +48,7 @@ defmodule Wildfires.Server do
   end
 
   @impl WebSock
-  def terminate(reason, state) when reason != :normal do
+  def terminate(reason, state) when reason not in [:normal, :timeout, :remote] do
     Logger.error("#{__MODULE__} terminated", reason: reason)
     {:ok, state}
   end

@@ -8,9 +8,9 @@ import Config
 # and secrets from environment variables or elsewhere. Do not define
 # any compile-time configuration in here, as it won't be applied.
 
+config :opentelemetry_exporter, otlp_endpoint: System.get_env("OTEL_ENDPOINT", "http://otel:4318")
+
 # The block below contains prod specific runtime configuration.
 if config_env() == :prod do
   config :wildfires, api: []
-
-  config :opentelemetry_exporter, otlp_endpoint: System.get_env("OTEL_ENDPOINT")
 end

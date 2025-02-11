@@ -1,5 +1,7 @@
 import Config
 
+config :wildfires, env: Mix.env()
+
 config :logger, :console,
   format: "$time $metadata[$level] $message\n",
   metadata: :all

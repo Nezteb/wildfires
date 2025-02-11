@@ -21,12 +21,6 @@ defmodule Wildfires.Release do
     {:ok, _, _} = Ecto.Migrator.with_repo(repo, &Ecto.Migrator.run(&1, :down, to: version))
   end
 
-  def fetch_data() do
-    _ = load_app()
-
-    # TODO: Fetch data
-  end
-
   defp repos do
     Application.fetch_env!(@app, :ecto_repos)
   end

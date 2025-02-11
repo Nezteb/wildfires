@@ -21,7 +21,7 @@ defmodule Wildfires.Application do
     # for other strategies and supported options
     opts = [strategy: :one_for_one, name: Wildfires.Supervisor]
 
-    Mix.env()
+    Application.get_env(:wildfires, :env, :dev)
     |> maybe_start_telemetry()
     |> get_children_for_env()
     |> merge_common_children()

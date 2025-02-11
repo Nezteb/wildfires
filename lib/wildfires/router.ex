@@ -10,9 +10,11 @@ defmodule Wildfires.Router do
   @timeout 1 * @minute
 
   get "/" do
+    index = Application.app_dir(:wildfires, ["priv", "static", "index.html"])
+
     conn
     |> put_resp_content_type("text/html")
-    |> send_file(200, "priv/static/index.html")
+    |> send_file(200, index)
   end
 
   get "/ws" do
